@@ -5,7 +5,7 @@
     "name": "辉煌帝"
   },
   "category": "玩法",
-  "changelog": "初次发布",
+  "changelog": "",
   "conflicts": [],
   "delisted": false,
   "description": "配置器：Start-Config-Editor.bat    默认设置 异常 100% 触发 DED 远征（2 段链路，1–4 跳、势力匹配、24h、上限 3）；DED 1–10 多指挥官/军官/旗舰最终波（1.0.6 起 3/6/9 军官真正生效）；异常最后一波 50% 追加同等级指挥官；DED 9/10 补档；掉落按站点等级加权；加速门落点=目标房间信标灯塔（10124，可配置）；1.0.6 放开 3/6/9 DED 加速门舰船限制；1.0.7 按 DED 等级限制普通怪船型与每房间炮台数（不改怪数量）；1.0.8 只改 5 海盗势力 DED 9/10 站名与每房间描述（真 9/10 文案，几何/难度不变）；",
@@ -14,7 +14,7 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/huihuangdi/evejs-mod-evejs-ded-ladder/releases/download/v1.0.9/evejs-ded-ladder-1.0.9.zip"
+      "url": "https://github.com/huihuangdi/evejs-mod-evejs-ded-ladder/releases/download/v1.1.1/evejs-ded-ladder-1.1.1.zip"
     }
   ],
   "evejsVersions": [
@@ -24,19 +24,19 @@
   "highlights": [],
   "history": [],
   "id": "evejs-ded-ladder",
-  "publishedAt": "2026-11-20",
+  "publishedAt": "2026-11-21",
   "readme": [
     "单机玩法模组：**暗黑式刷装备 loop**。"
   ],
   "repo": "https://github.com/huihuangdi/evejs-mod-evejs-ded-ladder",
   "requiresRestart": true,
-  "sha256": "280dc6abaa83e70a8babc15404526bfcd5ed60cb2c13fbb8dc69199d9c093b81",
-  "sizeBytes": 1134430,
+  "sha256": "b2bf9e95c38590fcc0344987dcc2c3f4cb6872a7b322841ecd436e4787f35b25",
+  "sizeBytes": 1121171,
   "tags": [
     "anomaly",
     "ded",
     "expedition",
     "escalation"
   ],
-  "version": "1.0.9"
+  "version": "1.1.1"
 }
