@@ -14,29 +14,29 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/huihuangdi/evejs-mod-evejs-ded-ladder/releases/download/v1.1.2/evejs-ded-ladder-1.1.2.zip"
+      "url": "https://github.com/huihuangdi/evejs-mod-evejs-ded-ladder/releases/download/v1.1.4/evejs-ded-ladder-1.1.4.zip"
     }
   ],
   "evejsVersions": [
-    "261115.x"
+    "261125.x"
   ],
   "featured": false,
   "highlights": [],
   "history": [],
   "id": "evejs-ded-ladder",
-  "publishedAt": "2026-11-24",
+  "publishedAt": "2026-11-27",
   "readme": [
     "单机玩法模组：**暗黑式刷装备 loop**。"
   ],
   "repo": "https://github.com/huihuangdi/evejs-mod-evejs-ded-ladder",
   "requiresRestart": true,
-  "sha256": "a234633e769e8eab444b5c78e50911f9c0460f0b6e74bc901603b514ab68b92d",
-  "sizeBytes": 1121452,
+  "sha256": "3fe20a8caffaed5cc30fefb7592ca56a07c3cd264e18f12eeea7d09cc2617ca2",
+  "sizeBytes": 2587138,
   "tags": [
     "anomaly",
     "ded",
     "expedition",
     "escalation"
   ],
-  "version": "1.1.2"
+  "version": "1.1.4"
 }
